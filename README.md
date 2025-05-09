@@ -14,7 +14,7 @@ C++17 ile geliştirilen, STL veri yapıları ve dosya tabanlı kayıt kullanarak
   - ISBN ile hash tabanlı arama
   - Başlık ile BST çoklu eşleşme (std::multimap)
   - Kategori ile DFS (stack kullanarak)
-- 📂 Dosya okuma/yazma desteği (`data/books.txt`)
-- 💬 Türkçe karakter desteği (`setlocale`)
+- 📂 Dosya okuma/yazma desteği
+- 💬 Türkçe karakter desteği
 - 🧱 CMake ile platform bağımsız derleme
 
