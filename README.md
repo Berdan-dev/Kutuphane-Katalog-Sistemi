@@ -10,10 +10,10 @@ C++17 ile geliştirilen, STL veri yapıları ve dosya tabanlı kayıt kullanarak
 - 📋 Kitap ekleme, silme, listeleme(Dosyada sadece örnek 3 kitap vardır)
 - 🔍 Arama seçenekleri:
   - ID ile ikili arama (Binary Search)
-  - Yazar adı ile doğrusal arama (Linear Search)
+  - Yazar adı ile doğrusal arama
   - ISBN ile hash tabanlı arama
-  - Başlık ile BST çoklu eşleşme (std::multimap)
-  - Kategori ile DFS (stack kullanarak)
+  - Başlık ile BST çoklu eşleşme
+  - Kategori ile DFS
 - 📂 Dosya okuma/yazma desteği
 - 💬 Türkçe karakter desteği
 - 🧱 CMake ile platform bağımsız derleme
